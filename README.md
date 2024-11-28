@@ -8,9 +8,7 @@ The Vault is a decentralized web application built using Javascript and Solidity
 - Transanction History where it collects information about the recent transanctions made through the Web App
 
 # Requirements 
-- Javascript Package Managers
-    - Yarn
-    - NPM
+- NodeJS
 - Metamask wallet (other wallets are not supported)
 
 # Running the application

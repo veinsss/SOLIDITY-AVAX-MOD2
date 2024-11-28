@@ -23,3 +23,15 @@ git clone https://github.com/veinsss/SOLIDITY-AVAX-MOD2.git
 4. Set up your local blockchain npm hardhat node
 5. Setup the startup scrpt for hardhat in order to gain 100 Ethereum npx hardhat run --network localhost scripts/deploy.js
 6. On the terminal type npm run dev in order to start the front end locally
+
+# Metamask Setup
+After deploying the script there should be 100 ETh to the accounts provided by hardhat
+1. Find the Account 0
+2. Get the private key and import it into metamask
+3. Add the local network to the metamask
+    - Default Settings of Hardhat
+    - Network name: Any name you want to name your local network
+    - Default RPC URL: https://127.0.0.1:8545
+    - Chain ID: 31337
+    - Currency Symbol: Can be anything you want
+**NOTE THIS ARE THE DEFAULT VALUES** 

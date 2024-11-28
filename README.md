@@ -34,4 +34,5 @@ After deploying the script there should be 100 ETh to the accounts provided by h
     - Default RPC URL: https://127.0.0.1:8545
     - Chain ID: 31337
     - Currency Symbol: Can be anything you want
-**NOTE THIS ARE THE DEFAULT VALUES** 
+
+**NOTE!!!! THIS ARE THE DEFAULT VALUES** 

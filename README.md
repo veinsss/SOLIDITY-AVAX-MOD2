@@ -35,4 +35,4 @@ After deploying the script there should be 100 ETh to the accounts provided by h
     - Chain ID: 31337
     - Currency Symbol: Can be anything you want
 
-**NOTE!!!! THIS ARE THE DEFAULT VALUES** 
+**NOTE!!!! THESE ARE THE DEFAULT VALUES** 

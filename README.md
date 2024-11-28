@@ -1,6 +1,6 @@
 # The Vault
 
-The vault is a decentralized web application where it simulates making transanctions on the blockchain
+The Vault is a decentralized web application built using Javascript and Solidity where it uses Ethereum as a currency. 
 
 # Features
 - An API call that collects the current price of Ethereum in the current market
